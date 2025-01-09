@@ -1,5 +1,5 @@
 import asyncio
-import websockets
+import webs
 
 clients = set()
 
